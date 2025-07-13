@@ -1,8 +1,8 @@
 ## TryHackMe: How Websites Work
 
-**Room**: How Websites Work
-**Status**: Completed
-**Date**: 2025-07-13
+**Room**: How Websites Work 
+**Status**: Completed 
+**Date**: 2025-07-13 
 
 ----------
 
