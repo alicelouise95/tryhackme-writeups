@@ -1,11 +1,34 @@
-## Cyber Security Learning Log
+# TryHackMe Writeups
 
-I'm using this repository to track my progress through cyber security, specifically using TryHackMe. For each room or topic, I write short, structured summaries of what I learned.
+This repository documents my progress through TryHackMe's cybersecurity learning paths. Each file contains a summary of what I’ve learned in a given room, written in my own words.
 
-**Why I'm doing this:**
+---
 
--   To understand core concepts clearly
-    
--   To build a strong foundation before moving into offensive security
-    
--   To keep a consistent, organized record of what I’ve studied
+## Purpose
+
+- To track my learning and progress over time  
+- To keep a written record of each completed room  
+- To eventually serve as part of a broader portfolio  
+
+---
+
+## Roadmap
+
+I’m following TryHackMe’s official learning path:
+
+- Pre-Security  
+- Cyber Security 101  
+- Junior Penetration Tester  
+- Practical Pentesting (PT1 Certificate)  
+- Web Fundamentals  
+- Web Application Pentesting  
+- Red Teaming  
+
+---
+
+## Notes
+
+- All rooms are from TryHackMe  
+- New writeups are added as I complete each room  
+- This is an in-progress, long-term project  
+
