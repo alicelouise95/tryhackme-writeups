@@ -1,4 +1,4 @@
-# TryHackMe Writeups
+# TryHackMe Writeups: Pre-Security Module
 
 This repository documents my progress through TryHackMe's Pre-Security course. Each file contains a summary of what I’ve learned in a given room, written in my own words.
 
